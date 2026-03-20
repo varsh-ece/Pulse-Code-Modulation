@@ -53,7 +53,7 @@ print("Sample Binary Stream (First 10):", " ".join(binary_codes[:10]))
 # ===== 5. Visualization =====
 fig, axes = plt.subplots(3, 1, figsize=(10, 10), sharex=True)
 plt.subplots_adjust(hspace=0.4)
-plt.suptitle("EXP-3 PULSE CODE MODULATION\nNAME : HARSHADA P K \nREG NO : 212224060097",fontsize=12, fontweight='bold')
+plt.suptitle("EXP-3 PULSE CODE MODULATION\nNAME : VARSHINI M \nREG NO : 212224060293",fontsize=12, fontweight='bold')
 
 # Plot 1: Sampling
 axes[0].plot(t_analog, analog_signal, label="Analog Signal", color='gray', alpha=0.5)
