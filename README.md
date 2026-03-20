@@ -1,4 +1,4 @@
-# EXP NO: 2 Pulse-Code-Modulation & Delta Modulation
+# EXP NO: 3 Pulse-Code-Modulation & Delta Modulation
 # NAME: VARSHINI M
 # REGISTER NUMBER: 212224060293
 
